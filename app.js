@@ -13,3 +13,5 @@ app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 })
 
+// Deploy on Vercel:
+// https://web322-a3-garul50s2-daniellin9406s-projects.vercel.app/
