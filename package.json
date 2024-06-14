@@ -1,0 +1,14 @@
+{
+  "name": "build_a_simple_express_application",
+  "version": "1.0.0",
+  "description": "Web322 A3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chun-Cheng Lin 173813213",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
